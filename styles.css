@@ -47,3 +47,7 @@ textarea {
   border-radius: 2px;
   padding: 2px;
 }
+
+.like {
+  cursor: pointer;
+}
